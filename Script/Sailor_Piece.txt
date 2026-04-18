@@ -1,0 +1,31 @@
+Shadow X Hub:
+  👉 PC: loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowX890/Sailor-Piece/refs/heads/main/Main%20Sailor%20Piece"))()
+  👉 Mobile: loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowX890/Sailor-Piece/refs/heads/main/Main%20Sailor%20Piece"))()
+Void-Hub:  
+  👉loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidDeveloper67/Void-Hub/refs/heads/main/VoidHub.lua", true))()
+Speed Hub:
+  👉loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
+Kaitun (Farm cực ngon):
+  👉_G.KaitunConfig = {
+    AutoFarm = true,
+    AutoQuest = true,
+    AutoBoss = true,
+    AutoM1 = true,
+    AutoSkill = true,
+    SelectedSkills = {Z = true, X = true, C = true, V = true},
+    M1Speed = 0.15,
+    WeaponMode = "Sword", -- "Melee" / "Sword" / "Both" / "Power"
+    AutoStats = true,
+    StatSword = 60,
+    StatDefense = 25,
+    StatPower = 15,
+    FarmType = "Above",   -- "Above" / "Behind" / "Below"
+    FarmDistance = 8,
+    MovementType = "Teleport", -- "Teleport" / "Tween"
+    AntiAFK = true,
+    AutoReconnect = true,
+    WebhookURL = "link_webhook",
+    WebhookDelay = 5,
+    SendWebhook = true,
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dieverhub-roblox/sailonpiece/refs/heads/main/kaitun-sailorpiece.lua"))()
